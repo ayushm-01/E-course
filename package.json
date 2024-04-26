@@ -1,0 +1,16 @@
+{
+  "name": "e-learning-website",
+  "version": "1.0.0",
+  "description": "![image](https://user-images.githubusercontent.com/63282184/168264302-34d7602e-f7c3-4c66-a75e-117485fd79b3.png)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "firebase": "^10.11.0"
+  }
+}
